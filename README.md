@@ -1,2 +1,2 @@
-# personal-site
-My personal website and blog
+# My Personal Website
+This site links to my public profiles (e.g. linkedin, github) and hosts some of my writing.
