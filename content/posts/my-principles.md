@@ -4,7 +4,6 @@ title: "My Principles"
 date: 2021-02-13T23:31:22-08:00
 description: "Principles I center my life around."
 tags: [
-  "wellbeing",
   "life-philosophy",
 ]
 draft: true

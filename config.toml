@@ -8,6 +8,7 @@ author = "Saad Syed"
 description = "Software Engineer. Biker. Runner. Wannabe chef. Cofounder at www.enterflow.app"
 profilePicture = "images/headshot.png"
 doNotLoadAnimations = true
+favicon = "favicons/"
 
 [[params.socialIcons]]
 icon = "fab fa-linkedin"
@@ -42,3 +43,9 @@ url = "mailto:saadnsyed@gmail.com"
   weight = 200
   identifier = "posts"
   url = "/posts/"
+
+  [[menu.main]]
+  name = "Tags"
+  weight = 300
+  identifier = "tags"
+  url = "/tags/"
