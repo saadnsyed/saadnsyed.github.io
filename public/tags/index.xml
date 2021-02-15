@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on </title>
+    <link>http://example.org/tags/</link>
+    <description>Recent content in Tags on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 14 Feb 2021 18:32:01 -0800</lastBuildDate><atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>productivity</title>
+      <link>http://example.org/tags/productivity/</link>
+      <pubDate>Sun, 14 Feb 2021 18:32:01 -0800</pubDate>
+      
+      <guid>http://example.org/tags/productivity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>wellbeing</title>
+      <link>http://example.org/tags/wellbeing/</link>
+      <pubDate>Sun, 14 Feb 2021 18:32:01 -0800</pubDate>
+      
+      <guid>http://example.org/tags/wellbeing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>life-philosophy</title>
+      <link>http://example.org/tags/life-philosophy/</link>
+      <pubDate>Sat, 13 Feb 2021 23:31:22 -0800</pubDate>
+      
+      <guid>http://example.org/tags/life-philosophy/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
