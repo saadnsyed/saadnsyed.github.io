@@ -5,10 +5,15 @@ theme = "anatole"
 [params]
 title = "Saad Syed"
 author = "Saad Syed"
-description = "Software Engineer. Biker. Runner. Wannabe chef. Cofounder at www.enterflow.app"
+description = "Cofounder at Flow. Biker. Runner. Wannabe Chef."
 profilePicture = "images/headshot.png"
 doNotLoadAnimations = true
 favicon = "favicons/"
+
+[[params.socialIcons]]
+icon = "fas fa-tools"
+title = "Flow"
+url = "https://enterflow.app/?utm_source=flow&utm_medium=saad-personal-site"
 
 [[params.socialIcons]]
 icon = "fab fa-linkedin"
@@ -22,7 +27,7 @@ url = "https://github.com/saadnsyed"
 
 [[params.socialIcons]]
 icon = "fab fa-instagram"
-title = "instagram"
+title = "Instagram"
 url = "https://instagram.com/saadnsyed"
 
 [[params.socialIcons]]
