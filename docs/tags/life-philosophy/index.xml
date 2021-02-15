@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>life-philosophy on </title>
-    <link>http://example.org/tags/life-philosophy/</link>
+    <link>https://saadnsyed.github.io/tags/life-philosophy/</link>
     <description>Recent content in life-philosophy on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 13 Feb 2021 23:31:22 -0800</lastBuildDate><atom:link href="http://example.org/tags/life-philosophy/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 13 Feb 2021 23:31:22 -0800</lastBuildDate><atom:link href="https://saadnsyed.github.io/tags/life-philosophy/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My Principles</title>
-      <link>http://example.org/posts/my-principles/</link>
+      <link>https://saadnsyed.github.io/posts/my-principles/</link>
       <pubDate>Sat, 13 Feb 2021 23:31:22 -0800</pubDate>
       
-      <guid>http://example.org/posts/my-principles/</guid>
+      <guid>https://saadnsyed.github.io/posts/my-principles/</guid>
       <description>&lt;p&gt;&lt;em&gt;What I center my life around and why.&lt;/em&gt;&lt;/p&gt;</description>
     </item>
     

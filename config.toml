@@ -1,7 +1,13 @@
-baseURL = "http://example.org/"
+baseURL = "https://saadnsyed.github.io/"
 languageCode = "en-us"
 theme = "anatole"
 publishDir   = "docs"
+enableRobotsTXT = true
+
+# Syntax highlighting
+pygmentsUseClasses = true
+pygmentsCodeFences = true
+pygmentsCodefencesGuessSyntax = true
 
 [params]
 title = "Saad Syed"
@@ -10,6 +16,11 @@ description = "Cofounder at Flow. Biker. Runner. Wannabe Chef."
 profilePicture = "images/headshot.png"
 doNotLoadAnimations = true
 favicon = "favicons/"
+
+## Math settings
+[params.math]
+enable = false  # options: true, false. Enable math support globally, default: false. You can always enable math on per page.
+use = "katex"  # options: "katex", "mathjax". default is "katex".
 
 [[params.socialIcons]]
 icon = "fas fa-tools"
