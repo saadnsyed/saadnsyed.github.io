@@ -1,6 +1,7 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
 theme = "anatole"
+publishDir   = "docs"
 
 [params]
 title = "Saad Syed"
