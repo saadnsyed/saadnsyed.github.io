@@ -24,7 +24,7 @@ Recognize all that is happening in your life but divert your energy where you ca
 
 ## Strive for a sense of contribution
 
-We are an interdependent species by nature. It’s important for us to flourish as individuals while meshing with our communities. Contributing to a community builds a sense of belonging. Community here is a general concept. It could be your religion, your company, your hobby club, or your closest friends.
+We are an interdependent species by nature. It’s important for us to flourish as individuals while meshing with our communities. Community here is a general concept. It could be your religion, your company, your hobby club, or your closest friends. Contributing to a community builds a sense of belonging.
 
 ## Trust
 
@@ -38,4 +38,4 @@ Appreciate what you have and where you are. Don't compare problems. You either r
 
 Be upfront - with yourself and others. Lying gives too much weight to whatever you’re lying about. Being transparent helps me maintain confidence and stay centered around my values.
 
-I’m not perfect and don’t always follow these rules. Sometimes situations are too complicated or the repercussions are too high. In these cases I trust my ability to weigh my options. Sometimes I slip up. In these cases I apologize if others are involved. In all cases I forgive myself and trust myself to move forward.
+I’m not perfect and don’t always follow these rules. Sometimes situations are too complicated or the repercussions are too high. In these cases I trust my ability to weigh my options. Sometimes I slip up. In these cases I apologize if others are involved. In all cases I trust myself to move forward.
