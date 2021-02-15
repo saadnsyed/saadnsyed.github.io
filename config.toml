@@ -1,4 +1,4 @@
-baseURL = "https://saadnsyed.github.io/"
+baseURL = "https://saadnsyed.com/"
 languageCode = "en-us"
 theme = "anatole"
 publishDir   = "docs"
