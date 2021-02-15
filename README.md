@@ -5,7 +5,13 @@ This site links to my public profiles (e.g. linkedin, github) and hosts some of 
 The site is built with Hugo (https://gohugo.io/) and uses the Anatole theme (https://themes.gohugo.io/anatole/).
 
 To test locally (http://localhost:1313/):
-`hugo server -D`
+
+```shell
+hugo server -D
+```
 
 To update for production:
-`hugo -D`
+
+```shell
+hugo -D
+```
