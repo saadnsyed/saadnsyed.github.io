@@ -22,7 +22,7 @@ Here's a list of all the books I've read since 2017. Bolded books have had a not
 
 * #### The Gifts of Imperfection - Brené Brown
 
-  * Helps you learn to emrbace your imperfections and accept who you are. Has practical tips, including the AEIOUY journal that I still do daily (A: what I abstained from, E: did I exercise, I: what did I do for myself, O: what did I do for others, U: do I have unexpressed emotions, Y: what's something good that happened).
+  * Helps you learn to embrace your imperfections and accept who you are. Has practical tips, including the AEIOUY journal that I still do daily (A: what I abstained from, E: did I exercise, I: what did I do for myself, O: what did I do for others, U: do I have unexpressed emotions, Y: what's something good that happened).
 
 * The Defining Decade - Meg Jay
 
