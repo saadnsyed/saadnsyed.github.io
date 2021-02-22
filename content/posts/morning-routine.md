@@ -1,10 +1,10 @@
 ---
 title: "Benefits of a Morning Routine"
-date: 2021-02-14T18:32:01-08:00
+date: 2021-02-21T18:32:01-08:00
 description: "How a morning routine helps you."
 tags: [
-  "wellbeing",
-  "productivity",
+ "wellbeing",
+ "productivity",
 ]
 draft: true
 ---
@@ -12,17 +12,29 @@ draft: true
 *Get a proactive rather than reactive start to your day.*
 <!--more-->
 
-A key part of happiness is feeling in control of your life. This comes from having confidence in your behavior. Repeated wins, or good habits, build this confidence. Your routine forms your habits. The start of your day is a great time to instill routine since it's often time you have to yourself.
+A good morning gives you energy. It sets you off on the right foot and gives you time for yourself. A morning routine helps you use this time to get some personal wins before tackling the rest of your day. Here are some benefits I’ve experienced from following a consistent morning routine.
 
-You’re at the center of everything you do. A good morning routine energizes you. Focus on the things you want to do for yourself. Meditation, skin care, exercising, or reading are some examples. Starting off with a win elevates your mood for the rest of the day. Whether you want to grind at work or help others, feeling happy and energized will help you do that.
+#### Consistent self care
 
-With a morning routine every day starts with a sense of control. This compounds day over day, helping to build mental fortitude and happiness.
+The morning gives you uninterrupted time to get things done. It’s easy to slot in exercise, skin care, reading, or other self care. The value of these activities compounds with time.
 
-## Tips to stay consistent
+#### Start off the day with a win
+
+You go into the rest of the day with momentum. Even if everything else goes wrong, you’ve accomplished something.
+
+#### Proactive rather than reactive start to the day
+
+You decide how you start your day. This framing gives a sense of control of your life. There’s satisfaction in knowing you’ve done something you wanted to do.
+
+#### Builds discipline
+
+Sticking to a routine is tough. A morning routine is a simple, accessible way to practice building discipline.
+
+## Tips to get the most out of your routine
 
 * Stick to a sequence that makes sense. For example, exercise → shower → skin care.
 
-* Don’t touch your phone. This keeps you focused.
+* Don’t touch your phone. This keeps you focused and reinforces the habit of taking time for yourself.
 
 * Get up early. You’ll feel like you’re getting a headstart and won’t worry about responding to messages right away.
 

@@ -66,3 +66,9 @@ url = "mailto:saadnsyed@gmail.com"
   weight = 300
   identifier = "tags"
   url = "/tags/"
+
+  [[menu.main]]
+  name = "Reading List"
+  weight = 300
+  identifier = "reading-list"
+  url = "/reading-list/"
