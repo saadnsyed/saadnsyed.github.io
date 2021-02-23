@@ -4,6 +4,9 @@ theme = "anatole"
 publishDir   = "docs"
 enableRobotsTXT = true
 
+# Google Analytics
+googleAnalytics = "UA-190447443-1"
+
 # Syntax highlighting
 pygmentsUseClasses = true
 pygmentsCodeFences = true
