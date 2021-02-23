@@ -96,7 +96,7 @@ Here's a list of all the books I've read since 2017. Bolded books have had a not
 
   * An alternative history novel chronicling a post WW2 world ruled by Imperial Japan and Nazi Germany. The world building was top notch.
 
-* #### Dune
+* #### Dune - Frank Herbert
 
   * A riveting story following a chosen child prodigy navigating his role in a political power struggle. The world building and different cultures explored were captivating.
 
@@ -126,7 +126,7 @@ Here's a list of all the books I've read since 2017. Bolded books have had a not
 
   * A story about following your dreams, or your "personal legend."
 
-* #### Flowers for Algernon
+* #### Flowers for Algernon - Daniel Keyes
 
   * A series of notes from a person undergoing trials to increase his intelligence. Gives perspective on how percieved intelligence affects how you are treated.
 
@@ -150,7 +150,7 @@ Here's a list of all the books I've read since 2017. Bolded books have had a not
 
   * Follows the struggles of two women of different generations in Afghanistan. Emotional read touching on gender roles, family, and love.
 
-* #### Pachinko
+* #### Pachinko - Min Jin Lee
 
   * Emotional read following multiple generations of a Korean family living in Japan spanning 1920s-1990s. The depth of each character and insight into generational shifts in perspective paint a very human struggle.
 
