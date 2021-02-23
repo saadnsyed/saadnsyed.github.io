@@ -13,7 +13,7 @@ pygmentsCodefencesGuessSyntax = true
 title = "Saad Syed"
 author = "Saad Syed"
 description = "Cofounder at Flow. Biker. Runner. Wannabe Chef."
-profilePicture = "images/headshot.png"
+profilePicture = "images/headshot.jpg"
 doNotLoadAnimations = true
 favicon = "favicons/"
 
