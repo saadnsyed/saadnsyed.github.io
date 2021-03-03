@@ -90,6 +90,10 @@ Here's a list of all the books I've read since 2017. Bolded books have had a not
 
   * How to vet your business idea in its early stages. Playbook on having valuable and insightful customer conversations.
 
+* Blitzscaling - Reid Hoffman
+
+  * Blitzscaling is a framework for growing a startup in a market where speed is the most important thing. Hoffman argues you should optimize for iteration speed and learning even at the cost of efficiency.
+
 ### SciFi
 
 * The Man in the High Castle - Phillip K. Dick
