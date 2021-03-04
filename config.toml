@@ -28,7 +28,7 @@ use = "katex"  # options: "katex", "mathjax". default is "katex".
 [[params.socialIcons]]
 icon = "fas fa-tools"
 title = "Flow"
-url = "https://enterflow.app/?utm_source=flow&utm_medium=saad-personal-site"
+url = "https://enterflow.app/?utm_source=saadnsyed.com&utm_medium=referral"
 
 [[params.socialIcons]]
 icon = "fab fa-linkedin"
